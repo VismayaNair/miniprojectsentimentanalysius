@@ -16,8 +16,8 @@ This is a real time project that categorises movie reviews as positive , negativ
 
 ## Architecture Diagram/Flow
 
-![Diagram1](diagram1.png)
-![Diagram2](diagram2.png)
+![846f61c2-ba00-4ed2-a2eb-32e44f635bf8](https://github.com/VismayaNair/miniprojectsentimentanalysius/assets/93427210/86428a65-9189-4f00-9e5d-e5faed2d4afb)
+
 
 ## Installation
 
