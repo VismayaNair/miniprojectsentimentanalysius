@@ -1,4 +1,4 @@
-# miniprojectsentimentanalysis
+# MINI_PROJECT
 # Emotion detection 
 
 
@@ -169,10 +169,10 @@ else:
     print("The review is Neutral.")
 ```
 ## Output:
-
+~~~
 ![output1](output1.png)
 ![output2](output2.png)
-
+~~~
 ## Result:
 
 In this sentiment analysis experiment, we employed a machine learning model based on a combination of unigrams, bigrams, and word embeddings to classify sentiment in a diverse dataset of user reviews.
